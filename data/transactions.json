@@ -1,0 +1,26 @@
+[
+  {
+    "id": "TXN-TEST0BAB",
+    "user_id": 0,
+    "crop": "Potato",
+    "quantity_kg": 100,
+    "price_per_kg": 800,
+    "total": 80000,
+    "method": "tigo",
+    "phone": "+255712000000",
+    "status": "Pending",
+    "created_at": "2026-07-23 14:14:42"
+  },
+  {
+    "id": "TXN-5CAC9E5B",
+    "user_id": 0,
+    "crop": "Blueberry",
+    "quantity_kg": 50.0,
+    "price_per_kg": 12000,
+    "total": 600000,
+    "method": "mpesa",
+    "phone": "+255712345678",
+    "status": "Pending",
+    "created_at": "2026-07-23 14:14:42"
+  }
+]
